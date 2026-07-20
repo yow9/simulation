@@ -1,0 +1,17 @@
+{
+  "name": "@yow9/simulation",
+  "version": "0.0.1",
+  "description": "Benign placeholder package for an OIDC trusted-publishing / provenance demo.",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yow9/simulation.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "node -e \"console.log('ok')\""
+  }
+}
