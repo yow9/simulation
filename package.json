@@ -1,6 +1,6 @@
 {
   "name": "@yow9/simulation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Benign placeholder package for an OIDC trusted-publishing / provenance demo.",
   "main": "index.js",
   "license": "MIT",

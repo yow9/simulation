@@ -16,5 +16,3 @@ jobs:
       - run: npm install -g npm@latest
       - run: node -v && npm -v
       - run: npm publish --provenance --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
